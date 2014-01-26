@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:auto;
+	background-color:#590D17;
+	}
+#header{
+	width:100%;
+	height:50px;
+	background:url(images/menu-wrapper.png);
+	display:block;
+	
+	}
+#menu{
+	height:50px;
+	}
+#menu td{
+	padding:12px;
+	display:;
+	}
+#menu a{
+	text-decoration:none;
+	font-family:"Times New Roman", Times, serif;
+	font-size:16px;
+	color:#FFFFFF;
+	font-weight:bold;
+	}
+#menu td:hover{
+	background-color:#590D17;
+	}
+#selected{
+	background:#590D17;
+	}
+#logo{
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:16px;
+	font-style:normal;
+	font-variant:normal;
+	}
+.table2{
+	position:fixed;
+	background-color:#590D17;
+		}
+		
+/*_________for register form table__________*/
+		
+.big{
+	font-weight:bold;
+	color:#FFFFFF;
+}
+
+.color{
+	font-weight:bold;
+	color:#FFFFFF;
+}
+
+.color3{
+	color:#CCC;
+	font-size:12px;
+}
+
+.color1{
+	color:#CCC;
+}
+
+.color2{
+	color:#FFFFFF;
+}
